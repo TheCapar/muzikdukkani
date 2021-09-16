@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+}
+header h1{
+    color: blueviolet;
+}
+header ul {
+    display:flex;
+    list-style-type: none;
+    justify-content: center;
+    padding-right: 5%;
+}
+header ul li{
+    padding-left: 3%;
+}
+header ul li a{
+    color: brown;
+}
+section article {
+    text-align: center;
+}
+section article h3{
+    color: rgb(18, 187, 54);
+}
+section article ul{
+    list-style-position: inside;
+}
